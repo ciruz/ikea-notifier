@@ -1,0 +1,30 @@
+{
+  "name": "ikea-notifier",
+  "version": "0.0.1",
+  "description": "Notifies you when your product at IKEA is back in stock.",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "node-notifier": "^4.5.0",
+    "request": "^2.69.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciruz/ikea-notifier.git"
+  },
+  "keywords": [
+    "ikea",
+    "notify",
+    "notifier"
+  ],
+  "author": "ciruz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ciruz/ikea-notifier/issues"
+  },
+  "homepage": "https://github.com/ciruz/ikea-notifier#readme"
+}
